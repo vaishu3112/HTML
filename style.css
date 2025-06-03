@@ -1,0 +1,25 @@
+.nav{
+    background-color: rgb(84, 8, 90);
+    height: 150px;
+    padding: 10px;
+    font-size: larger;
+    border: 2px solid violet;
+}
+a{
+    color: yellow;
+    background-color: rgb(142, 102, 178);
+    height: 20px;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    color: rgb(237, 21, 90);
+}
+p{
+    font-size: larger;
+}
+footer{
+    background-color: rgb(199, 171, 226);
+    height:50px;
+    text-align: center;
+}
